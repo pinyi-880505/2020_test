@@ -24,4 +24,5 @@
 
 [![docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "title")
 
-！[甘特圖]（1603256871499.jpg)
+！[甘特圖]（1603256871499.jpg）
+！[甘特圖]（160325687149。png“甘特圖")
